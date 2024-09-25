@@ -1,0 +1,28 @@
+{
+  "name": "waterfall-piano",
+  "private": true,
+  "version": "0.0.0",
+  "description": "A practical and beautiful piano waterfall stream software to record and demonstrate your finger dance",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.37"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.2",
+    "typescript": "^5.5.3",
+    "vite": "^5.4.1",
+    "vue-tsc": "^2.0.29"
+  },
+  "keywords": ["piano"],
+  "author": "Jay Zhen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1950859171/waterfall-piano/issues"
+  },
+  "homepage": "https://github.com/1950859171/waterfall-piano"
+}
